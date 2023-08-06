@@ -1,0 +1,20 @@
+The package requirements for this Python program are as follows:
+
+- requests
+- beautifulsoup4
+- nltk
+- transformers
+- langdetect
+- scikit-learn
+- tkinter
+
+You will also need to download the following NLTK data using the provided code:
+
+- punkt
+- vader_lexicon
+
+To install all the required packages, you can use the following command:
+
+```
+pip install requests beautifulsoup4 nltk transformers langdetect scikit-learn
+```
